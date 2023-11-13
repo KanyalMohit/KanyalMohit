@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanyalMohit
-- 👀 I’m interested in dk yet
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig:mohit_01017
 

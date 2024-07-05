@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KanyalMohit
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig:m0hit_kanyal
+- 👀 I’m interested in learning
+- 📫 How to reach me 📧:mohitkanyalmk@gmail.com
 
 <!---
 KanyalMohit/KanyalMohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

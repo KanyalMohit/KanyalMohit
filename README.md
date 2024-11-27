@@ -6,7 +6,7 @@ I'm passionate about building efficient, user-friendly applications and explorin
 ---
 
 ## 🌟 Featured Projects  
-### 🛒 [Ecommerce App](https://github.com/mohitkanyal/EcommerceApp)  
+### 🛒 [Shopping App](https://github.com/mohitkanyal/EcommerceApp)  
 A modern eCommerce application featuring Firebase integration, Jetpack Compose UI, and Dagger Hilt for dependency injection.  
 
 ### 📱 [MovieDb App](https://github.com/mohitkanyal/MovieDbApp)  
